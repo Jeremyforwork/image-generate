@@ -21,7 +21,7 @@ const dict = {
   'gen.uploadClick': { en: 'Click or drag to upload', zh: '点击或拖拽上传' },
   'gen.uploadHint': { en: 'PNG, JPG up to 5MB', zh: 'PNG、JPG，最大 5MB' },
   'gen.category': { en: 'Product Category', zh: '产品类目' },
-  'gen.scene': { en: 'Extra Requirements', zh: '额外要求' },
+  'gen.scene': { en: 'Extra Requirements (Optional)', zh: '额外要求（选填）' },
   'gen.scenePlaceholder': { en: 'Any extra details for the shoot...', zh: '补充拍摄要求，如特定姿势、配饰等...' },
   'gen.aspectRatio': { en: 'Aspect Ratio', zh: '画面比例' },
   'gen.numImages': { en: 'Number of Images', zh: '生成数量' },
